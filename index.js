@@ -2,7 +2,7 @@ const app = new Vue({
   el: '#app',
   data: {
     keywords : ["龙腾苑", "13号线"],
-    cities: ["北京", "上海", "南京"]
+    // cities: ["北京", "上海", "南京"],
     groups : [
       {
         name: "北京昌平回龙观租房",
